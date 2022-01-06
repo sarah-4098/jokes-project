@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(18, 35, 88);
+}
+.container{
+    text-align: center;
+    height: 300px;
+    width: 700px;
+    margin-top: 250px;
+    border: rgb(255, 255, 255) 7px solid;
+    background-color: white;
+    box-shadow: 10px 10px 5px lightskyblue;
+}
+.container .loader{
+    margin-top: 130px;
+}
